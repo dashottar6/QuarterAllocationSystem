@@ -1,16 +1,16 @@
-#Quarter Alloction & Management System
+# Quarter Alloction & Management System
 
 QAMS is a residence - assigning system built on PHP and Javascript
 This application is in use by Central Railways, India (Mumbai Division)
 It is live on Intranet
 
-##Purpose Resolved
+## Purpose Resolved
 
 ```
 This system upgarded the manual process which used to take approx. 2 months for approval and allocation of quarter to an Indian Railways Officer who got relocated to a new city
 ```
 
-##Technology Stack
+## Technology Stack
 
 ```
 PHP - Server Side Scripting
@@ -21,7 +21,7 @@ CSS - User Experience Capabilities
 XAMPP - Cross-platform web server solution
 ```
 
-##User Stories
+## User Stories
 
 > A user would be able to register with the UID (Unique Identity) that the government has provided
 
